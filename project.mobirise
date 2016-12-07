@@ -25,7 +25,8 @@
     "versionPublish": "3.9.2",
     "publishType": "github",
     "ftpLocation": "ftp://b24_19274713@ftp.byethost24.com:21",
-    "publishFtpPath": "HTDOCS"
+    "publishFtpPath": "HTDOCS",
+    "publishPath": ""
   },
   "pages": {
     "index.html": {
@@ -99,7 +100,7 @@
             "showButtons": true
           },
           "title": "FOOD",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "Top Recipies from around the world with a little twist!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MAIN COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIDES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DESERTS</a> "
         }
       ]
