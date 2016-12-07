@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "ftpLocation": "ftp://b24_19274713@ftp.byethost24.com:21",
@@ -72,7 +72,7 @@
           },
           "title": "ALL THINGS NICE!",
           "text": "An all in one platform for food, home decor, tips and tricks to make life easy in Toronto and more!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header1-3\" data-toolbar=\"-mbrBtnMove\">FOOD</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DECOR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TORONTO!</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header1-3\" data-toolbar=\"-mbrBtnMove\">FOOD</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-d\" data-toolbar=\"-mbrBtnMove\">DECOR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TORONTO!</a>  "
         },
         {
           "_tags": [
@@ -102,14 +102,37 @@
           "title": "FOOD",
           "text": "Top Recipies from around the world with a little twist!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MAIN COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIDES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DESERTS</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flower-1846918-960-720-2000x1333-64.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "DECOR AND MORE!",
+          "text": "Beautiful decor for a beutiful home!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DECOR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FESTIVES</a> "
         }
       ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": ""
-      },
-      "components": []
     }
   }
 }
